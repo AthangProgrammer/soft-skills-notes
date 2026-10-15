@@ -1,0 +1,833 @@
+{
+ "lectures": {
+  "1": {
+   "title": "Introduction to Soft Skills",
+   "week": 1,
+   "pdf_pages": [
+    5,
+    23
+   ],
+   "extraction": "done",
+   "notes": "done",
+   "quiz_questions": 3,
+   "pdf": "pdf/weeks/week_01.pdf"
+  },
+  "2": {
+   "title": "Aspects of Soft Skills",
+   "week": 1,
+   "pdf_pages": [
+    24,
+    40
+   ],
+   "extraction": "done",
+   "notes": "done",
+   "quiz_questions": 5,
+   "pdf": "pdf/weeks/week_01.pdf"
+  },
+  "3": {
+   "title": "Effective Communication Skills",
+   "week": 1,
+   "pdf_pages": [
+    41,
+    54
+   ],
+   "extraction": "done",
+   "notes": "done",
+   "quiz_questions": 5,
+   "pdf": "pdf/weeks/week_01.pdf"
+  },
+  "4": {
+   "title": "Classification of Communication",
+   "week": 1,
+   "pdf_pages": [
+    55,
+    69
+   ],
+   "extraction": "done",
+   "notes": "done",
+   "quiz_questions": 1,
+   "pdf": "pdf/weeks/week_01.pdf"
+  },
+  "5": {
+   "title": "Personality Development",
+   "week": 1,
+   "pdf_pages": [
+    70,
+    83
+   ],
+   "extraction": "done",
+   "notes": "done",
+   "quiz_questions": 4,
+   "pdf": "pdf/weeks/week_01.pdf"
+  },
+  "6": {
+   "title": "Positive Thinking",
+   "week": 2,
+   "pdf_pages": [
+    84,
+    99
+   ],
+   "extraction": "done",
+   "notes": "done",
+   "quiz_questions": 5,
+   "pdf": "pdf/weeks/week_02.pdf"
+  },
+  "7": {
+   "title": "Telephonic Communication Skills Part I",
+   "week": 2,
+   "pdf_pages": [
+    100,
+    114
+   ],
+   "extraction": "done",
+   "notes": "done",
+   "quiz_questions": 3,
+   "pdf": "pdf/weeks/week_02.pdf"
+  },
+  "8": {
+   "title": "Telephonic Communication Skills Part II",
+   "week": 2,
+   "pdf_pages": [
+    115,
+    126
+   ],
+   "extraction": "done",
+   "notes": "done",
+   "quiz_questions": 3,
+   "pdf": "pdf/weeks/week_02.pdf"
+  },
+  "9": {
+   "title": "Communicating Without Words",
+   "week": 2,
+   "pdf_pages": [
+    127,
+    147
+   ],
+   "extraction": "done",
+   "notes": "done",
+   "quiz_questions": 4,
+   "pdf": "pdf/weeks/week_02.pdf"
+  },
+  "10": {
+   "title": "Paralanguage",
+   "week": 2,
+   "pdf_pages": [
+    148,
+    167
+   ],
+   "extraction": "done",
+   "notes": "done",
+   "quiz_questions": 3,
+   "pdf": "pdf/weeks/week_02.pdf"
+  },
+  "11": {
+   "title": "Proxemics",
+   "week": 3,
+   "pdf_pages": [
+    168,
+    179
+   ],
+   "extraction": "done",
+   "notes": "done",
+   "quiz_questions": 4,
+   "pdf": "pdf/weeks/week_03.pdf"
+  },
+  "12": {
+   "title": "Haptics: The Language of Touch",
+   "week": 3,
+   "pdf_pages": [
+    180,
+    192
+   ],
+   "extraction": "done",
+   "notes": "done",
+   "quiz_questions": 2,
+   "pdf": "pdf/weeks/week_03.pdf"
+  },
+  "13": {
+   "title": "Meta-communication",
+   "week": 3,
+   "pdf_pages": [
+    193,
+    208
+   ],
+   "extraction": "done",
+   "notes": "done",
+   "quiz_questions": 4,
+   "pdf": "pdf/weeks/week_03.pdf"
+  },
+  "14": {
+   "title": "Listening Skills",
+   "week": 3,
+   "pdf_pages": [
+    209,
+    225
+   ],
+   "extraction": "done",
+   "notes": "done",
+   "quiz_questions": 2,
+   "pdf": "pdf/weeks/week_03.pdf"
+  },
+  "15": {
+   "title": "Types of Listening",
+   "week": 3,
+   "pdf_pages": [
+    226,
+    239
+   ],
+   "extraction": "done",
+   "notes": "done",
+   "quiz_questions": 5,
+   "pdf": "pdf/weeks/week_03.pdf"
+  },
+  "16": {
+   "title": "Negotiation Skills I",
+   "week": 4,
+   "pdf_pages": [
+    240,
+    254
+   ],
+   "extraction": "done",
+   "notes": "done",
+   "quiz_questions": 8,
+   "pdf": "pdf/weeks/week_04.pdf"
+  },
+  "17": {
+   "title": "Negotiation Skills II",
+   "week": 4,
+   "pdf_pages": [
+    255,
+    269
+   ],
+   "extraction": "done",
+   "notes": "done",
+   "quiz_questions": 2,
+   "pdf": "pdf/weeks/week_04.pdf"
+  },
+  "18": {
+   "title": "Culture as Communication",
+   "week": 4,
+   "pdf_pages": [
+    270,
+    288
+   ],
+   "extraction": "done",
+   "notes": "done",
+   "quiz_questions": 0,
+   "pdf": "pdf/weeks/week_04.pdf"
+  },
+  "19": {
+   "title": "Communicating across Cultures",
+   "week": 4,
+   "pdf_pages": [
+    289,
+    304
+   ],
+   "extraction": "done",
+   "notes": "done",
+   "quiz_questions": 4,
+   "pdf": "pdf/weeks/week_04.pdf"
+  },
+  "20": {
+   "title": "Organizational Communication",
+   "week": 4,
+   "pdf_pages": [
+    305,
+    321
+   ],
+   "extraction": "done",
+   "notes": "done",
+   "quiz_questions": 3,
+   "pdf": "pdf/weeks/week_04.pdf"
+  },
+  "21": {
+   "title": "Communication Breakdown Part I",
+   "week": 5,
+   "pdf_pages": [
+    322,
+    339
+   ],
+   "extraction": "done",
+   "notes": "done",
+   "quiz_questions": 3,
+   "pdf": "pdf/weeks/week_05.pdf"
+  },
+  "22": {
+   "title": "Communication Breakdown Part II",
+   "week": 5,
+   "pdf_pages": [
+    340,
+    353
+   ],
+   "extraction": "done",
+   "notes": "done",
+   "quiz_questions": 5,
+   "pdf": "pdf/weeks/week_05.pdf"
+  },
+  "23": {
+   "title": "Advanced Writing Skills",
+   "week": 5,
+   "pdf_pages": [
+    354,
+    375
+   ],
+   "extraction": "done",
+   "notes": "done",
+   "quiz_questions": 4,
+   "pdf": "pdf/weeks/week_05.pdf"
+  },
+  "24": {
+   "title": "Principles of Business Writing",
+   "week": 5,
+   "pdf_pages": [
+    376,
+    392
+   ],
+   "extraction": "done",
+   "notes": "done",
+   "quiz_questions": 2,
+   "pdf": "pdf/weeks/week_05.pdf"
+  },
+  "25": {
+   "title": "Types of Business Writing Part I",
+   "week": 5,
+   "pdf_pages": [
+    393,
+    410
+   ],
+   "extraction": "done",
+   "notes": "done",
+   "quiz_questions": 2,
+   "pdf": "pdf/weeks/week_05.pdf"
+  },
+  "26": {
+   "title": "Types of Business Writing Part II",
+   "week": 6,
+   "pdf_pages": [
+    411,
+    428
+   ],
+   "extraction": "done",
+   "notes": "done",
+   "quiz_questions": 5,
+   "pdf": "pdf/weeks/week_06.pdf"
+  },
+  "27": {
+   "title": "Business Letters",
+   "week": 6,
+   "pdf_pages": [
+    429,
+    449
+   ],
+   "extraction": "done",
+   "notes": "done",
+   "quiz_questions": 2,
+   "pdf": "pdf/weeks/week_06.pdf"
+  },
+  "28": {
+   "title": "Business Letters: Format & Style",
+   "week": 6,
+   "pdf_pages": [
+    450,
+    466
+   ],
+   "extraction": "done",
+   "notes": "done",
+   "quiz_questions": 1,
+   "pdf": "pdf/weeks/week_06.pdf"
+  },
+  "29": {
+   "title": "Types of Business Letters Part I",
+   "week": 6,
+   "pdf_pages": [
+    467,
+    485
+   ],
+   "extraction": "done",
+   "notes": "done",
+   "quiz_questions": 4,
+   "pdf": "pdf/weeks/week_06.pdf"
+  },
+  "30": {
+   "title": "Types of Business Letters Part II",
+   "week": 6,
+   "pdf_pages": [
+    486,
+    503
+   ],
+   "extraction": "done",
+   "notes": "done",
+   "quiz_questions": 4,
+   "pdf": "pdf/weeks/week_06.pdf"
+  },
+  "31": {
+   "title": "Report Writing",
+   "week": 7,
+   "pdf_pages": [
+    504,
+    517
+   ],
+   "extraction": "done",
+   "notes": "done",
+   "quiz_questions": 2,
+   "pdf": "pdf/weeks/week_07.pdf"
+  },
+  "32": {
+   "title": "Types of Reports",
+   "week": 7,
+   "pdf_pages": [
+    518,
+    528
+   ],
+   "extraction": "done",
+   "notes": "done",
+   "quiz_questions": 1,
+   "pdf": "pdf/weeks/week_07.pdf"
+  },
+  "33": {
+   "title": "Strategies for Report Writing Part I",
+   "week": 7,
+   "pdf_pages": [
+    529,
+    545
+   ],
+   "extraction": "done",
+   "notes": "done",
+   "quiz_questions": 7,
+   "pdf": "pdf/weeks/week_07.pdf"
+  },
+  "34": {
+   "title": "Strategies for Report Writing Part II",
+   "week": 7,
+   "pdf_pages": [
+    546,
+    560
+   ],
+   "extraction": "done",
+   "notes": "done",
+   "quiz_questions": 2,
+   "pdf": "pdf/weeks/week_07.pdf"
+  },
+  "35": {
+   "title": "Evaluation and Organization of Data",
+   "week": 7,
+   "pdf_pages": [
+    561,
+    575
+   ],
+   "extraction": "done",
+   "notes": "done",
+   "quiz_questions": 2,
+   "pdf": "pdf/weeks/week_07.pdf"
+  },
+  "36": {
+   "title": "Structure of Reports: Part-I",
+   "week": 8,
+   "pdf_pages": [
+    576,
+    592
+   ],
+   "extraction": "done",
+   "notes": "done",
+   "quiz_questions": 3,
+   "pdf": "pdf/weeks/week_08.pdf"
+  },
+  "37": {
+   "title": "Structure of Reports: Part-II",
+   "week": 8,
+   "pdf_pages": [
+    593,
+    608
+   ],
+   "extraction": "done",
+   "notes": "done",
+   "quiz_questions": 1,
+   "pdf": "pdf/weeks/week_08.pdf"
+  },
+  "38": {
+   "title": "Report Style: Part I",
+   "week": 8,
+   "pdf_pages": [
+    609,
+    630
+   ],
+   "extraction": "done",
+   "notes": "done",
+   "quiz_questions": 4,
+   "pdf": "pdf/weeks/week_08.pdf"
+  },
+  "39": {
+   "title": "Report Style: Part II",
+   "week": 8,
+   "pdf_pages": [
+    631,
+    650
+   ],
+   "extraction": "done",
+   "notes": "done",
+   "quiz_questions": 3,
+   "pdf": "pdf/weeks/week_08.pdf"
+  },
+  "40": {
+   "title": "Group Communication",
+   "week": 8,
+   "pdf_pages": [
+    651,
+    668
+   ],
+   "extraction": "done",
+   "notes": "done",
+   "quiz_questions": 6,
+   "pdf": "pdf/weeks/week_08.pdf"
+  },
+  "41": {
+   "title": "Leadership Skills",
+   "week": 9,
+   "pdf_pages": [
+    669,
+    683
+   ],
+   "extraction": "done",
+   "notes": "done",
+   "quiz_questions": 5,
+   "pdf": "pdf/weeks/week_09.pdf"
+  },
+  "42": {
+   "title": "Group Discussion: Part I",
+   "week": 9,
+   "pdf_pages": [
+    684,
+    702
+   ],
+   "extraction": "done",
+   "notes": "done",
+   "quiz_questions": 7,
+   "pdf": "pdf/weeks/week_09.pdf"
+  },
+  "43": {
+   "title": "Group Discussion: Part II",
+   "week": 9,
+   "pdf_pages": [
+    703,
+    718
+   ],
+   "extraction": "done",
+   "notes": "done",
+   "quiz_questions": 4,
+   "pdf": "pdf/weeks/week_09.pdf"
+  },
+  "44": {
+   "title": "Meeting Management",
+   "week": 9,
+   "pdf_pages": [
+    719,
+    731
+   ],
+   "extraction": "done",
+   "notes": "done",
+   "quiz_questions": 1,
+   "pdf": "pdf/weeks/week_09.pdf"
+  },
+  "45": {
+   "title": "Adaptability and Work Ethics",
+   "week": 9,
+   "pdf_pages": [
+    732,
+    749
+   ],
+   "extraction": "done",
+   "notes": "done",
+   "quiz_questions": 3,
+   "pdf": "pdf/weeks/week_09.pdf"
+  },
+  "46": {
+   "title": "Advanced Speaking Skills",
+   "week": 10,
+   "pdf_pages": [
+    750,
+    767
+   ],
+   "extraction": "done",
+   "notes": "done",
+   "quiz_questions": 4,
+   "pdf": "pdf/weeks/week_10.pdf"
+  },
+  "47": {
+   "title": "Oral Presentations, Speeches, and Debates",
+   "week": 10,
+   "pdf_pages": [
+    768,
+    783
+   ],
+   "extraction": "done",
+   "notes": "done",
+   "quiz_questions": 3,
+   "pdf": "pdf/weeks/week_10.pdf"
+  },
+  "48": {
+   "title": "Combating Nervousness",
+   "week": 10,
+   "pdf_pages": [
+    784,
+    799
+   ],
+   "extraction": "done",
+   "notes": "done",
+   "quiz_questions": 3,
+   "pdf": "pdf/weeks/week_10.pdf"
+  },
+  "49": {
+   "title": "Patterns and Methods of Presentation",
+   "week": 10,
+   "pdf_pages": [
+    800,
+    813
+   ],
+   "extraction": "done",
+   "notes": "done",
+   "quiz_questions": 1,
+   "pdf": "pdf/weeks/week_10.pdf"
+  },
+  "50": {
+   "title": "Oral Presentation: Planning & Preparation",
+   "week": 10,
+   "pdf_pages": [
+    814,
+    831
+   ],
+   "extraction": "done",
+   "notes": "done",
+   "quiz_questions": 3,
+   "pdf": "pdf/weeks/week_10.pdf"
+  },
+  "51": {
+   "title": "Making Effective Presentations",
+   "week": 11,
+   "pdf_pages": [
+    832,
+    851
+   ],
+   "extraction": "done",
+   "notes": "done",
+   "quiz_questions": 5,
+   "pdf": "pdf/weeks/week_11.pdf"
+  },
+  "52": {
+   "title": "Speeches for Various Occasions",
+   "week": 11,
+   "pdf_pages": [
+    852,
+    868
+   ],
+   "extraction": "done",
+   "notes": "done",
+   "quiz_questions": 3,
+   "pdf": "pdf/weeks/week_11.pdf"
+  },
+  "53": {
+   "title": "Interviews",
+   "week": 11,
+   "pdf_pages": [
+    869,
+    884
+   ],
+   "extraction": "done",
+   "notes": "done",
+   "quiz_questions": 2,
+   "pdf": "pdf/weeks/week_11.pdf"
+  },
+  "54": {
+   "title": "Planning and Preparation: Part-1",
+   "week": 11,
+   "pdf_pages": [
+    885,
+    902
+   ],
+   "extraction": "done",
+   "notes": "done",
+   "quiz_questions": 3,
+   "pdf": "pdf/weeks/week_11.pdf"
+  },
+  "55": {
+   "title": "Planning and Preparation: Part II",
+   "week": 11,
+   "pdf_pages": [
+    903,
+    924
+   ],
+   "extraction": "done",
+   "notes": "done",
+   "quiz_questions": 4,
+   "pdf": "pdf/weeks/week_11.pdf"
+  },
+  "56": {
+   "title": "Drafting an Effective Resume",
+   "week": 12,
+   "pdf_pages": [
+    925,
+    947
+   ],
+   "extraction": "done",
+   "notes": "done",
+   "quiz_questions": 3,
+   "pdf": "pdf/weeks/week_12.pdf"
+  },
+  "57": {
+   "title": "Facing Job Interviews: Part- I",
+   "week": 12,
+   "pdf_pages": [
+    948,
+    965
+   ],
+   "extraction": "done",
+   "notes": "done",
+   "quiz_questions": 3,
+   "pdf": "pdf/weeks/week_12.pdf"
+  },
+  "58": {
+   "title": "Facing Job Interviews: Part II",
+   "week": 12,
+   "pdf_pages": [
+    966,
+    989
+   ],
+   "extraction": "done",
+   "notes": "done",
+   "quiz_questions": 4,
+   "pdf": "pdf/weeks/week_12.pdf"
+  },
+  "59": {
+   "title": "Emotional Intelligence and Critical Thinking",
+   "week": 12,
+   "pdf_pages": [
+    990,
+    1005
+   ],
+   "extraction": "done",
+   "notes": "done",
+   "quiz_questions": 4,
+   "pdf": "pdf/weeks/week_12.pdf"
+  },
+  "60": {
+   "title": "Applied Grammar",
+   "week": 12,
+   "pdf_pages": [
+    1006,
+    1026
+   ],
+   "extraction": "done",
+   "notes": "done",
+   "quiz_questions": 3,
+   "pdf": "pdf/weeks/week_12.pdf"
+  }
+ },
+ "quiz": {
+  "pages_inspected": "42 of 42 (OCR for all pages; page images viewed for ambiguous, incorrect and matching items)",
+  "questions_extracted": 185,
+  "status_counts": {
+   "Verified": 172,
+   "Needs verification": 13,
+   "Unreadable": 0
+  }
+ },
+ "pdfs": {
+  "pdf/NPTEL_SoftSkills_Complete_Notes.pdf": {
+   "pages": 383,
+   "words": 76042,
+   "bytes": 7916678
+  },
+  "pdf/NPTEL_SoftSkills_Last_Day_Revision.pdf": {
+   "pages": 11,
+   "words": 1921,
+   "bytes": 330280
+  },
+  "pdf/NPTEL_SoftSkills_Master_Revision.pdf": {
+   "pages": 32,
+   "words": 10061,
+   "bytes": 698923
+  },
+  "pdf/NPTEL_SoftSkills_Practice_Questions.pdf": {
+   "pages": 65,
+   "words": 11022,
+   "bytes": 1440671
+  },
+  "pdf/NPTEL_SoftSkills_Quiz_Analysis.pdf": {
+   "pages": 82,
+   "words": 24382,
+   "bytes": 1546643
+  },
+  "pdf/weeks/week_01.pdf": {
+   "pages": 30,
+   "words": 6529,
+   "bytes": 754682
+  },
+  "pdf/weeks/week_02.pdf": {
+   "pages": 28,
+   "words": 6287,
+   "bytes": 762739
+  },
+  "pdf/weeks/week_03.pdf": {
+   "pages": 30,
+   "words": 5739,
+   "bytes": 743599
+  },
+  "pdf/weeks/week_04.pdf": {
+   "pages": 29,
+   "words": 5669,
+   "bytes": 764151
+  },
+  "pdf/weeks/week_05.pdf": {
+   "pages": 29,
+   "words": 5492,
+   "bytes": 741725
+  },
+  "pdf/weeks/week_06.pdf": {
+   "pages": 27,
+   "words": 5773,
+   "bytes": 723883
+  },
+  "pdf/weeks/week_07.pdf": {
+   "pages": 31,
+   "words": 6064,
+   "bytes": 810169
+  },
+  "pdf/weeks/week_08.pdf": {
+   "pages": 35,
+   "words": 6831,
+   "bytes": 892686
+  },
+  "pdf/weeks/week_09.pdf": {
+   "pages": 31,
+   "words": 6249,
+   "bytes": 818927
+  },
+  "pdf/weeks/week_10.pdf": {
+   "pages": 30,
+   "words": 5722,
+   "bytes": 774830
+  },
+  "pdf/weeks/week_11.pdf": {
+   "pages": 34,
+   "words": 7005,
+   "bytes": 873021
+  },
+  "pdf/weeks/week_12.pdf": {
+   "pages": 38,
+   "words": 8499,
+   "bytes": 981545
+  }
+ },
+ "issues": [
+  "Lecture 3: the seventh C of communication is not spelled out in the book.",
+  "Lectures 2 and 19: culture/definition attributed to “Alfred G. Smith” in places and to “Adam Smith” in the transcript.",
+  "Transcript misspellings of names: Fiedler (“Fielder”, Lecture 41), Sherring/Shearring and Christian (Lecture 32), Goleman (“Richard Goleman”, Lecture 59), and similar.",
+  "Speaking-rate discrepancy across lectures: 120–130 wpm (Lecture 51) versus 125–130 and 140–150 elsewhere; each lecture’s figure is recorded as cited.",
+  "Lecture 30: the poet quoted is not named in the transcript.",
+  "Lecture 31: etymology gloss “re = to send” versus “back”; recorded as in the source.",
+  "Lecture 52: verbatim poem and speech lines from the lecture were summarised, not reproduced (copyright).",
+  "Quiz: 13 of 185 items are labelled “Needs verification” because the book does not state the answer verbatim (see the note on each item).",
+  "Quiz items of the unnumbered sample set (W0Q1–Q5) are outside the numbered weeks and are mapped to the closest lectures.",
+  "Quiz page images were OCR’d; ambiguous items were checked against page images. No item is labelled Unreadable."
+ ],
+ "updated": "2026-10-15T12:57:10"
+}

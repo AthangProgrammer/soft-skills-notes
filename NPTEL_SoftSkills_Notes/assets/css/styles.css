@@ -1,0 +1,52 @@
+:root{--ink:#1b1f2a;--muted:#5a6272;--bg:#f6f7fb;--card:#fff;--line:#d9dde7;--brand:#2b3a8c;--brand2:#0f766e;--def:#e8eefc;--defb:#2b3a8c;--ex:#e7f6ef;--exb:#0f766e;--tip:#fff4d6;--tipb:#b45309;--imp:#fde8e8;--impb:#b91c1c;--q:#f1ecfb;--qb:#6d28d9}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;font:16px/1.65 "Segoe UI",system-ui,-apple-system,"Helvetica Neue",Arial,sans-serif;color:var(--ink);background:var(--bg)}
+.layout{display:grid;grid-template-columns:270px minmax(0,1fr);min-height:100vh}
+.sidebar{position:sticky;top:0;height:100vh;overflow:auto;background:#10163a;color:#e8ebff;padding:18px 14px;font-size:14px}
+.sidebar a{color:#cfd6ff;text-decoration:none;display:block;padding:3px 8px;border-radius:5px}
+.sidebar a:hover,.sidebar a.cur{background:#26307a;color:#fff}
+.sidebar h2{font-size:13px;text-transform:uppercase;letter-spacing:.08em;margin:16px 6px 6px;color:#8e9bff}
+.sidebar .brand{font-weight:700;font-size:16px;color:#fff;margin:0 6px 4px}
+.sidebar details summary{cursor:pointer;padding:3px 8px;color:#fff;font-weight:600}
+.sidebar details a{padding-left:20px;font-size:13px}
+main{padding:28px clamp(16px,4vw,48px) 60px;max-width:1100px;width:100%}
+h1{font-size:2rem;line-height:1.2;margin:.2em 0 .4em;color:var(--brand)}
+h2{font-size:1.45rem;margin:1.6em 0 .5em;color:var(--brand);border-bottom:2px solid var(--line);padding-bottom:.2em}
+h3{font-size:1.15rem;margin:1.3em 0 .4em;color:var(--brand2)}
+h4{font-size:1rem;margin:1em 0 .3em}
+p{margin:.5em 0}
+ul,ol{padding-left:1.3em;margin:.4em 0}
+li{margin:.2em 0}
+.lecture{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:8px 26px 22px;margin:28px 0;box-shadow:0 1px 3px rgba(20,30,70,.06)}
+.lecture>h2{border:0;font-size:1.6rem;margin-top:.8em}
+.meta{color:var(--muted);font-size:.9rem}
+.box{border-left:5px solid;border-radius:6px;padding:8px 14px;margin:12px 0}
+.box>.lbl{display:block;font-weight:700;font-size:.78rem;text-transform:uppercase;letter-spacing:.07em;margin-bottom:2px}
+.def{background:var(--def);border-color:var(--defb)}.def>.lbl{color:var(--defb)}
+.ex{background:var(--ex);border-color:var(--exb)}.ex>.lbl{color:var(--exb)}
+.tip{background:var(--tip);border-color:var(--tipb)}.tip>.lbl{color:var(--tipb)}
+.imp{background:var(--imp);border-color:var(--impb)}.imp>.lbl{color:var(--impb)}
+.qz{background:var(--q);border-color:var(--qb)}.qz>.lbl{color:var(--qb)}
+table{border-collapse:collapse;width:100%;margin:10px 0;font-size:.93rem;background:#fff}
+th,td{border:1px solid var(--line);padding:6px 9px;text-align:left;vertical-align:top}
+th{background:#eceffa;color:#1d2766}
+tr:nth-child(even) td{background:#fafbfe}
+.tw{overflow-x:auto}
+.toc{background:#fff;border:1px solid var(--line);border-radius:10px;padding:10px 20px;margin:14px 0}
+.toc ol,.toc ul{columns:2;column-gap:30px}
+.toc a{text-decoration:none;color:var(--brand)}
+.pq{border:1px solid var(--line);border-radius:8px;padding:8px 14px;margin:10px 0;background:#fff;break-inside:avoid}
+.pq .opts{list-style:upper-alpha;margin:.3em 0}
+.ans{background:#f2faf5;border-left:4px solid var(--brand2);padding:4px 10px;margin-top:6px;font-size:.93rem}
+.tag{display:inline-block;font-size:.72rem;font-weight:700;padding:1px 8px;border-radius:99px;border:1px solid currentColor;margin-right:4px;vertical-align:middle}
+.t-Verified{color:#166534}.t-Needs{color:#b45309}.t-Unreadable{color:#b91c1c}
+.nav{display:flex;justify-content:space-between;gap:10px;margin:24px 0;flex-wrap:wrap}
+.nav a{background:var(--brand);color:#fff;padding:6px 14px;border-radius:7px;text-decoration:none;font-size:.9rem}
+.btn{background:var(--brand);color:#fff;border:0;border-radius:7px;padding:6px 12px;cursor:pointer;font:inherit;font-size:.88rem}
+.cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:12px}
+.card{background:#fff;border:1px solid var(--line);border-radius:10px;padding:12px 14px}
+.card a{color:var(--brand);font-weight:600;text-decoration:none}
+.hide-ans .ans{display:none}
+.chk li{list-style:none;margin-left:-1.1em}.chk li::before{content:"\2610\00a0"}
+@media(max-width:860px){.layout{grid-template-columns:1fr}.sidebar{position:static;height:auto;max-height:50vh}.toc ol,.toc ul{columns:1}main{padding-top:14px}.lecture{padding:6px 14px 16px}}

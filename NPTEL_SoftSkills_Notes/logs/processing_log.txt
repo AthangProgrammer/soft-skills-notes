@@ -1,0 +1,40 @@
+NPTEL Soft Skills notes: processing log
+Finished: 2026-10-15T12:57:10
+
+Source: 109107121.pdf (1,026 pages, 60 lectures); Quiz.pdf (42 pages, 185 questions)
+Pipeline: extract_book.py -> per-lecture cleaned text; lec_NN.json written per lecture; build.py -> HTML; quiz_source.py + map_quiz.py (+ quiz_review.json) -> quiz analysis; make_pdfs.py (Playwright Chromium, A4); validate.py; finalize_logs.py
+
+Lectures with notes: 60/60 (12 weeks)
+Quiz pages inspected: 42/42; questions analysed: 185
+Quiz status: Verified=172, Needs verification=13, Unreadable=0
+PDFs generated: 17
+
+  pdf/NPTEL_SoftSkills_Complete_Notes.pdf: 383 pages, 76042 words
+  pdf/NPTEL_SoftSkills_Last_Day_Revision.pdf: 11 pages, 1921 words
+  pdf/NPTEL_SoftSkills_Master_Revision.pdf: 32 pages, 10061 words
+  pdf/NPTEL_SoftSkills_Practice_Questions.pdf: 65 pages, 11022 words
+  pdf/NPTEL_SoftSkills_Quiz_Analysis.pdf: 82 pages, 24382 words
+  pdf/weeks/week_01.pdf: 30 pages, 6529 words
+  pdf/weeks/week_02.pdf: 28 pages, 6287 words
+  pdf/weeks/week_03.pdf: 30 pages, 5739 words
+  pdf/weeks/week_04.pdf: 29 pages, 5669 words
+  pdf/weeks/week_05.pdf: 29 pages, 5492 words
+  pdf/weeks/week_06.pdf: 27 pages, 5773 words
+  pdf/weeks/week_07.pdf: 31 pages, 6064 words
+  pdf/weeks/week_08.pdf: 35 pages, 6831 words
+  pdf/weeks/week_09.pdf: 31 pages, 6249 words
+  pdf/weeks/week_10.pdf: 30 pages, 5722 words
+  pdf/weeks/week_11.pdf: 34 pages, 7005 words
+  pdf/weeks/week_12.pdf: 38 pages, 8499 words
+
+Unresolved issues and caveats:
+  - Lecture 3: the seventh C of communication is not spelled out in the book.
+  - Lectures 2 and 19: culture/definition attributed to “Alfred G. Smith” in places and to “Adam Smith” in the transcript.
+  - Transcript misspellings of names: Fiedler (“Fielder”, Lecture 41), Sherring/Shearring and Christian (Lecture 32), Goleman (“Richard Goleman”, Lecture 59), and similar.
+  - Speaking-rate discrepancy across lectures: 120–130 wpm (Lecture 51) versus 125–130 and 140–150 elsewhere; each lecture’s figure is recorded as cited.
+  - Lecture 30: the poet quoted is not named in the transcript.
+  - Lecture 31: etymology gloss “re = to send” versus “back”; recorded as in the source.
+  - Lecture 52: verbatim poem and speech lines from the lecture were summarised, not reproduced (copyright).
+  - Quiz: 13 of 185 items are labelled “Needs verification” because the book does not state the answer verbatim (see the note on each item).
+  - Quiz items of the unnumbered sample set (W0Q1–Q5) are outside the numbered weeks and are mapped to the closest lectures.
+  - Quiz page images were OCR’d; ambiguous items were checked against page images. No item is labelled Unreadable.
